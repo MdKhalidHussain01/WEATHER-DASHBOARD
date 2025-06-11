@@ -36,5 +36,5 @@ Overall, this React weather app demonstrates key frontend development practices:
 
 #OUTPUT
 
-![Image](https://github.com/user-attachments/assets/e790bad3-3d56-48ea-b817-438a9ca4cca2)
+![Image](https://github.com/user-attachments/assets/b394831d-9b2d-4dad-90e9-fbfe1932b8a5)
 
