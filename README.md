@@ -35,3 +35,6 @@ In the top right corner of the browser, network activity stats are visible, show
 Overall, this React weather app demonstrates key frontend development practices: clean UI/UX design, modular architecture (implied by Vite and React), and live data fetching. It's likely using a weather API like OpenWeatherMap or WeatherAPI to source real-time weather conditions based on city input. The project is a strong foundation for additional features like geolocation-based weather, multi-day forecasts, or themed UI based on weather types.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/e790bad3-3d56-48ea-b817-438a9ca4cca2)
+
